@@ -1,3 +1,2 @@
 # HIT-THE-DRUM
-Small project
-
+Small project using JavaScript, Html, CSS
